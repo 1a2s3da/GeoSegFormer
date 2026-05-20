@@ -1,0 +1,10 @@
+data/
+pretrained/
+
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+__pycache__/
+*.pyc
